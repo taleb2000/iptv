@@ -1,23 +1,81 @@
-#EXTINF:-1,group-title="Arab channels",AR | AD NATIONAL GEOGRAPHIC HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6421.ts
-#EXTINF:-1,group-title="Aljazeera",AR | ALJAZEERA HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6422.ts
-#EXTINF:-1,group-title="Aljazeera",AR | ALJAZEERA MUBASHER HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6423.ts
-#EXTINF:-1,group-title="Aljazeera",AR | ALJAZEERA MUBASHER 2 HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6424.ts
-#EXTINF:-1,group-title="Aljazeera",AR | ALJAZEERA DOCUMENTARY HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6425.ts
-#EXTINF:-1,group-title="Arab channels",AR | AL ARABYA HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6426.ts
-#EXTINF:-1,group-title="Arab channels",AR | SKY ARABIC HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6427.ts
-#EXTINF:-1,group-title="Arab channels",AR | ALHADATH HEVC IRAQ
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6428.ts
-#EXTINF:-1,group-title="Arab channels",AR | TRT ARABI HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6429.ts
-#EXTINF:-1,group-title="Arab channels",AR | SYRIA TV HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6430.ts
-#EXTINF:-1,group-title="Arab channels",AR | RUSSIA TODAY HEVC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6431.ts
-#EXTINF:-1,group-title="Arab channels",AR | LANA TV HEVC
+#EXTM3U
+#EXTINF:-1,group-title="Algeria",ECHOROUK HD DZ
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3893.ts
+#EXTINF:-1, group-title="Algeria", A3 HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/671.ts
+#EXTINF:-1,group-title="Algeria",A3 HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3851.ts
+#EXTINF:-1, group-title="Algeria", Awraas TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/673.ts
+#EXTINF:-1, group-title="Algeria", BERBERE TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/674.ts
+#EXTINF:-1, group-title="Algeria", Bahia TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/675.ts
+#EXTINF:-1, group-title="Algeria", CANAL ALGERIE
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/677.ts
+#EXTINF:-1, group-title="Algeria", Dzair 3
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/678.ts
+#EXTINF:-1, group-title="Algeria", Dzair Jannah
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/679.ts
+#EXTINF:-1, group-title="Algeria", Dzair Pub
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/680.ts
+#EXTINF:-1, group-title="Algeria", EL BILAD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/683.ts
+#EXTINF:-1, group-title="Algeria", EL DJAZAIRIA TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/684.ts
+#EXTINF:-1, group-title="Algeria", EL FADJR TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/685.ts
+#EXTINF:-1, group-title="Algeria", EL HAYAT TV ALGERIE
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/686.ts
+#EXTINF:-1, group-title="Algeria", EL HEDDAF TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/687.ts
+#EXTINF:-1, group-title="Algeria", EL HIKMA TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/688.ts
+#EXTINF:-1, group-title="Algeria", ENNAHAR TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/689.ts
+#EXTINF:-1, group-title="Algeria", Echorouk news
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/690.ts
+#EXTINF:-1, group-title="Algeria", El Djazair N1
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/692.ts
+#EXTINF:-1, group-title="Algeria", El FADJR DRAMA
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/693.ts
+#EXTINF:-1, group-title="Algeria", Samira TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/695.ts
+#EXTINF:-1, group-title="Algeria", TV 4
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/696.ts
+#EXTINF:-1, group-title="Algeria", TV 5
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/697.ts
+#EXTINF:-1, group-title="Algeria", TV 6 HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/698.ts
+#EXTINF:-1, group-title="Algeria", TV7 ELMAARIFA
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/699.ts
+#EXTINF:-1, group-title="Algeria", TV8 EDHAKIRA
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/700.ts
+#EXTINF:-1, group-title="Algeria", AL ANIS TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/4887.ts
+#EXTINF:-1, group-title="Algeria", ELWATANIA TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5439.ts
+#EXTINF:-1,group-title="OSN Alfa Arabic", Alyoum FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5137.ts
+#EXTINF:-1,group-title="OSN Alfa Arabic", Al Safwa FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5138.ts
+#EXTINF:-1,group-title="OSN Alfa Arabic", Al Fann FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5139.ts
+#EXTINF:-1group-title="OSN Alfa Arabic", Cinema 1 FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5140.ts
+#EXTINF:-1,group-title="OSN Alfa Arabic", Cinema 2 FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5141.ts
+#EXTINF:-1,group-title="OSN Alfa Arabic",", Music Now FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5142.ts
+#EXTINF:-1, group-title="OSN Alfa Arabic", Musalsalat FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5135.ts
+#EXTINF:-1, group-title="OSN Alfa Arabic", Musalsalat +2 FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5136.ts
+#EXTINF:-1, group-title="OSN Alfa Arabic",Yahala FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5132.ts
+#EXTINF:-1, group-title="OSN Alfa Arabic",Yahala Oula FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5133.ts
+#EXTINF:-1, group-title="OSN Alfa Arabic",Yahala Cinema FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5134.ts
+#EXTINF:-1, group-title="OSN Alfa Arabic",Art Hekayat 1 FHD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5143.ts
