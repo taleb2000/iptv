@@ -61,7 +61,7 @@ http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5137.ts
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5138.ts
 #EXTINF:-1,tvg-id="OSN"  tvg-logo="" group-title="OSN",  Al Fann FHD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5139.ts
-#EXTINF:-1group-title="OSN Alfa Arabic", Cinema 1 FHD
+#EXTINF:-1,tvg-id="OSN"  tvg-logo="" group-title="OSN", Cinema 1 FHD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5140.ts
 #EXTINF:-1,tvg-id="OSN"  tvg-logo="" group-title="OSN",  Cinema 2 FHD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/5141.ts
