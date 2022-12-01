@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="Algeria"  tvg-logo="" group-title="Algeria", ECHOROUK HD DZ
+#EXTINF:-1,tvg-id="TV4.dz"  tvg-logo="" group-title="Algeria", ECHOROUK HD DZ
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3893.ts
-#EXTINF:-1, tvg-id="Algeria" tvg-logo="" group-title="Algeria", A3 HD
+#EXTINF:-1, tvg-id="TV5.dz" tvg-logo="" group-title="Algeria", A3 HD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/671.ts
 #EXTINF:-1,tvg-id="Algeria"  tvg-logo="" group-title="Algeria", A3 HD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3851.ts
@@ -19,7 +19,7 @@ http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/678.ts
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/679.ts
 #EXTINF:-1, tvg-id="Algeria" tvg-logo="" group-title="Algeria", Dzair Pub
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/680.ts
-#EXTINF:-1, tvg-id="Algeria" tvg-logo="" group-title="Algeria", EL BILAD
+#EXTINF:-1, tvg-id="TV4.dz" tvg-logo="" group-title="Algeria", EL BILAD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/683.ts
 #EXTINF:-1, tvg-id="Algeria" tvg-logo="" group-title="Algeria", EL DJAZAIRIA TV
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/684.ts
@@ -3736,107 +3736,206 @@ http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/69
 http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/70
 #EXTINF:-1,tvg-id="BEIN AR" tvg-logo="" group-title="BEIN AR", BEIN SPORTS 3 HD
 http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/71
-
-
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", 1-2-3.tv
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8834.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", ANIXE+
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8835.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Boomerang
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8836.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Classica
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8837.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", DAZN 1 HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8838.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", DAZN 2 HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8839.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Discovery HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8841.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Disney Channel
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8842.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Nature HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8843.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Heimatkanal
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8845.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", N24 DOKU
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8847.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Nat Geo Wild HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8848.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", NatGeo HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8849.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Nicktoons
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8850.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Romance TV
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8851.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", SIXX
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8852.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", SYFY HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8854.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Action
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8856.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Action HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8857.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Best Of
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8858.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Best Of HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8859.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Classics
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8860.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Family
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8861.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Family HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8862.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Fun
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8863.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Premieren
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8864.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Premieren +24
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8865.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Documentaries HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8866.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Premieren HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8867.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Cinema Thriller HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8868.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Comedy HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8869.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Crime HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8870.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Krimi HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8871.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky One HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8872.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Serien & Shows HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8873.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport 1
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8874.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport 1 HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8875.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport 2
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8876.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport 2 HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8877.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport Austria 1
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8878.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport Austria 1 HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8879.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport Bundesliga 1 HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8880.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Sky Sport News HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8882.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Spiegel Geschichte HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8883.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", TELE 5
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8884.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", TLC
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8885.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", TNT Film HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8886.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", TNT Serie HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8887.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", Universal TV HD
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8888.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", VOX
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8889.ts
-#EXTINF:-1,tvg-id="GERMANY"  tvg-logo="" group-title="GERMANY", kabel eins
-http://darkteam.vip:25461/live/arabicfiar19i32oijwe/hksdfh03320salkd89283283/8890.ts
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TNT SERIE HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36731
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TNT FILM HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36732
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TNT COMEDY HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36733
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SYFY HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36734
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY KRIMI
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36736
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY CINEMA HITS HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36737
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY CINEMA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36738
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY ATLANTIC HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36739
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SIXX HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36740
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SAT 1 GOLD HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36741
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", RTL PASSION HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36742
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", RTL Nitro HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36743
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", RTL HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36744
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", RTL CRIME HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36745
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", RTL 2 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36746
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", PROSIEBEN Maxx HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36747
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ORF 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36748
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ORF 2 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36749
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", NATIONAL GEOGRAPHIC WILD HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36750
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", N-TV HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36751
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", KINOWELT
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36752
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", KIKA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36753
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", KABEL 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36754
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", HISTORY HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36755
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Sky Cinema +24
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36757
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Sky Cinema Comedy
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36758
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Sky Cinema Family
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36759
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", CLASSICA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36761
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", 13TH  STREET HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36762
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", HEIMATKANAL
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36763
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ROMANCE TV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36764
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Sky Nostalgie
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36765
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ATV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36766
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ARD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36767
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", D MAX
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36768
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TLC HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36769
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Disney Cinemagic
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36770
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DISNEY Jr.
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36771
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", E !
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36772
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", KABEL EINS  DOKU
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36773
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SAT.1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36774
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", 3SAT HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36775
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ZDF HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36776
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", PRO SIEBEN HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36777
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", RTL LIVING
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36778
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DISCOVERY CHANNEL
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36779
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", N-TV HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36780
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", NAT GEO HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36781
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", E! ENTERTAINMENT
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36782
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", BOOMERANG
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36783
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ARTE
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36784
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", WELT HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36785
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DISNEY CINEMAGIC
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36786
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", FOX
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36789
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", ROMANCE TV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36791
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TNT SERIE
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36792
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DAS ERSTE
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36796
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", EUROSPORT 1
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36799
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", EUROSPORT 2 XTRA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36801
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY SPORT NEWS
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36802
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", CINE SELECT 1
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36804
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", CINE SELECT 2
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36805
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", CINE SELECT 3
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36806
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", CINE SELECT 4
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36807
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", CINE SELECT 5
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36808
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-01
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36809
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-02
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36810
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DAZN 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36811
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DAZN 2 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36812
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-04
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36814
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-05
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36815
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-06
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36816
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-08
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36818
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-09
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36819
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SkyselectHD-10
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36820
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM DEL SPORT  1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36821
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM DEL SPORT  2 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36822
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM BUNDESLIGA 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36823
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM BUNDESLIGA 2 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36824
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM BUNDESLIGA 3 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36825
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM BUNDESLIGA 4 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36826
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM BUNDESLIGA 5 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36827
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM BUNDESLIGA 6 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36828
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", TELEKOM BUNDESLIGA 7 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36829
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DAZN 1
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36830
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", DAZN 2
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36831
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Sky Bundesliga 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36832
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Sky Sport Bundesliga 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36833
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Sky Sport Bundesliga 2 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36834
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY SPORT 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36835
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY SPORT 1 SD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36836
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY SPORT 2 HD 
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36837
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY SPORT 2 SD 
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36838
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY SPORT BUNDESLIGA 1  HD 
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36845
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", SKY SPORT BUNDESLIGA 2  HD 
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36846
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", HR
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36856
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Baden TV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36859
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Franken Fernsehen
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36862
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Munchen TV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36865
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", Oberpfalz TV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36868
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", RFO
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36870
+#EXTINF:-1,tvg-id="GERMANY" tvg-logo="" group-title="GERMANY", tagesschau 24
