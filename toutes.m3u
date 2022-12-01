@@ -2136,6 +2136,22 @@ http://vasprodtv.ru:8080/argoni150Con/699aadcd/4370
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/4371
 #EXTINF:-1,tvg-id="BEIN FR"  tvg-logo="" group-title="BEIN FR",  beIN Sports Max 10
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/6088
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN", beIN Sports 1 | HD*
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53184
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN",bein Sports USA | HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53185
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN",US: Bein Sports 2 | (ES)
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53186
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN",US: BeIN Sports 4 | HD*
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53188
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN",US: BeIN Sports 6 | HD*
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53190
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN",US: BeIN Sports 7 | HD*
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53191
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN",US: BeIN Sports 8 | HD*
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53192
+#EXTINF:-1,tvg-id="BEIN EN"  tvg-logo="" group-title="BEIN EN",US: BeIN Sports 12| HD*
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53196
 #EXTINF:-1,tvg-id="France" tvg-logo="" group-title="France", Berbere TV
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/33099
 #EXTINF:-1, tvg-id="France" tvg-logo="" group-title="France", BET
@@ -2474,29 +2490,29 @@ http://vasprodtv.ru:8080/argoni150Con/699aadcd/1202
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/50056
 #EXTINF:-1,tvg-id="France" tvg-logo="" group-title="France", RFM TV
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/6238
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC Decouverte
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC Decouverte
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/198
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 1
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 1
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/1937
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 2
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 2
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/1938
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 3
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 3
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/279991
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 4
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 4
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/279752
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 5
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 5
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/1940
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 7
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 7
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/20883
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 10
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 10
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/192025
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 11
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 11
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/20888
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 12
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 12
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/20887
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC SPORT 13
+#EXTINF:-1,tvg-id="RMC FR"  tvg-logo="" group-title="RMC FR",  RMC SPORT 13
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/20890
-#EXTINF:-1,tvg-id="FRANCE"  tvg-logo="" group-title="FRANCE",  RMC Story
+#EXTINF:-1,tvg-id="France"  tvg-logo="" group-title="France",  RMC Story
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/162
 #EXTINF:-1,tvg-id="France" tvg-logo="" group-title="France", Romance
 http://vasprodtv.ru:8080/argoni150Con/699aadcd/286487
@@ -3602,14 +3618,6 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/19936
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36517
 #EXTINF:-1,tvg-id="Sport EN"  tvg-logo="" group-title="Sport EN", SPECTRUM SPORTSNET
 http://31.14.41.118:8080/blacktop/k7S96HKftq/130654
-#EXTINF:-1,tvg-id="UK"  tvg-logo="" group-title="UK",  Sky One 
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35017
-#EXTINF:-1,tvg-id="UK"  tvg-logo="" group-title="UK",  Sky One
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35018
-#EXTINF:-1,tvg-id="UK"  tvg-logo="" group-title="UK",  Sky Atlantic FHD
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35020
-#EXTINF:-1,tvg-id="UK"  tvg-logo="" group-title="UK",  Sky Atlantic
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35021
 #EXTINF:-1,tvg-id="Sport EN"  tvg-logo="" group-title="Sport EN", tvg-id="UK"  tvg-logo="" group-title="UK",  Sky Arts
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35023
 #EXTINF:-1,tvg-id="Sport EN"  tvg-logo="" group-title="Sport EN", Sky Sports News
@@ -4533,3 +4541,1091 @@ http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/145780
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/145783
 #EXTINF:-1,tvg-id="24/7" tvg-logo="" group-title="24/7",24/7 Young Wallander
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/145784
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TRT 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/2
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", ATV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/3
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Kanal D 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/4
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Show TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/5
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Star TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/6
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Fox TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/9
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 8 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/7
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 8.5 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/8
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Kanal 7 4K+ 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/10
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Beyaz TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/11
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", A2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/12
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TRT 2 4K+ 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/13
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Teve 2 4K+ 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/14
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TRT 1 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", ATV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/17
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Kanal D HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/19
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", A2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/18
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Star TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/21
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Show TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/20
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Fox TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/24
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 8 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/22
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 8.5 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/23
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Kanal 7 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/25
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Beyaz TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/26
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Teve 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/27
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", IBB TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/28
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", ShowMax 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/30
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 8 int 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/29
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TRT Turk 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/31
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", ATV Avrupa
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/33
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Euro D
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Show Turk
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Euro Star 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/36
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Kanal 7 Avrupa
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/37
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TRT 1 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47601
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", ATV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47602
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Kanal D Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47603
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Show TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47604
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Star TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47605
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Fox TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47610
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 8 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47607
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV 8.5 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47609
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Beyaz TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47614
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Kanal 7 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47755
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", A2 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47616
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", Teve 2 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47620
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", TV100 Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47756
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", 360 TV Hevc
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/65618
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Kemal Sunal 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32201
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Kemal Sunal 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32202
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Kemal Sunal 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32214
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Hababam Sinifi
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/37999
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yesilcam 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35221
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yesilcam 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/70984
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Cem Yilmaz
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/40996
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Sener Sen 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34661
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox ibrahim Tatlises TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/74448
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Ferdi Tayfur TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/74552
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Cuneyt Arkin 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35188
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Cuneyt Arkin 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35208
+#EXTINF:-1,||TR| LionBox Tarkan
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56102
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yilmaz Guney
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/37947
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Turkan Soray
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41340
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Kadir Inanir
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/40995
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox HZ. Yusuf
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/38780
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Hz.Omer
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51900
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yunus Emre
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/52110
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Cagri
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/52111
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Evliya
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47199
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32203
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51611
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47353
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47354
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47355
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47356
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47357
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47358
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 7
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47359
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 8
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47360
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 9
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47361
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 10
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47362
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 11
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34974
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 12
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34973
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 13
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34972
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 14
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34971
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 15
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34970
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 16
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34969
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 17
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34968
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 18
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34967
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 19
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34966
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yerli Sinema 20
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34965
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47333
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47334
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47335
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47336
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47337
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47338
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 7
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47339
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 8
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47340
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 9
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47341
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Dublaj 10
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47342
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Marvel 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34660
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Marvel 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34670
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Superman
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/38838
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox John Wick
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/58602
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox The Hangover
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/58603
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox X-Men
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/58604
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Jonny Depp
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41028
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Fast & Furious 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/38722
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Predator
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/40833
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Final Destination
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41000
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Harry Potter
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41026
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Yuzuklerin Efendisi
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/41027
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Mumya
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51899
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Jackie Chan 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/32317
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Jackie Chan 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/33825
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Horror
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/42141
+#EXTINF:-1,tvg-id="TURKEY"  tvg-logo="" group-title="TURKEY", LionBox Chucky
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/51903
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/258
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/259
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO 3 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/260
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/261
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 5 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/262
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SBS6 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/263
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 7 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/264
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 8 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/265
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Veronica / Disney XD 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/266
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Net 5 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/267
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SBS 9 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/268
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", FOX 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/269
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO 1 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/270
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/271
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO 3 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/272
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 4 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/273
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 5 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/274
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SBS6 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/275
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 7 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/276
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL 8 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/277
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Veronica / Disney XD HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/278
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Net 5 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/279
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SBS 9 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/280
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", FOX HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/281
+#EXTINF:-1,The Manor (NL)
+http://ac.traveliptv.nl:80/movie/ibrahimturk/v7Nv6vNvdk/59644.mkv
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/287
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Select 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/288
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Voetbal 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/289
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Golf 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/290
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Racing 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/291
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Extra 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/292
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/293
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/294
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN 3 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/295
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/296
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Eurosport 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/299
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Eurosport 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/300
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/301
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Voetbal HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/303
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Golf HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/304
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Racing HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/305
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/306
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/307
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN 3 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/308
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ESPN 4 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/309
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Select HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/302
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SuperSport Premier League
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71713
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Xtra 1 HD F1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71461
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Xtra 2 4K F1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71468
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Xtra 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71928
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Xtra 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71469
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Formule 1 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71462
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Max Verstappen Onboard
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71464
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Darts
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71463
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay MMA
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71465
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Voetbal
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71467
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Event 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71929
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Event 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71930
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viaplay Event 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71466
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SuperSport Variety 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/81995
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SuperSport Variety 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/81996
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SuperSport Variety 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/81997
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SuperSport Variety 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/81998
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SuperSport Tennis
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/81999
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", SuperSport Football
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/82000
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Ziggo Sport Tennis 4K+  
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/82001
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", UFC Fight Pass
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/82003
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Sky Sports F1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/82004
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NBA TV 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/82005
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Premiere 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/282
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Action 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/283
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Family 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/284
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Drama 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/285
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL Crime 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/286
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Premiere HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34976
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Action HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34977
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Family HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34978
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Film1 Drama HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/34979
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Marvel 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56278
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Marvel 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56279
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox James Bond 007
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/56315
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47363
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47364
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 3
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47365
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 4
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47366
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47367
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 6
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47368
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 7
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47369
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 8
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47370
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 9
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47371
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 10
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/47372
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 11
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35034
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 12
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35035
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 13
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35036
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 14
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35037
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 15
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35038
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 16
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35039
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 17
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35040
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 18
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35041
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 19
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35042
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bios 20
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/35043
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Discovery 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/333
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Discovery ID 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/334
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Discovery Science 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/335
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Animal Planet 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/336
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Nat Geo Wild 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/337
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", National Geographic Channel 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/338
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", MTV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/339
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", History 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/340
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", 24 Kitchen 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/341
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", TLC 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/342
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", E! 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/343
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Comedy Central 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/344
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Comedy Central Extra 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/345
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Spike 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/346
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Fashion TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/347
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL Z 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/348
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL Lounge 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/349
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", BBC First 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/350
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Viceland 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/351
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Love Nature
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/352
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Crime & Investigation
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/353
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO Politiek
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/354
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", AT 5
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/355
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", L1 TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/356
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTV Rijnmond 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/357
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Omroep Gelderland
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/358
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Omroep Brabant
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/359
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Omroep Flevoland
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/360
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Omroep Fryslan
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/361
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Omroep Zeeland
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/362
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Omroep West
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/363
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTV Utrecht
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/365
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTV Drenthe
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/367
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTV Oost
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/369
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", ONS
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/371
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTV Noord
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/368
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", TV Ellef 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/80840
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Disney Channel 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/323
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Nickelodeon 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/324
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", RTL Telekids 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/325
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Cartoon Network 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/326
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Nick JR HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/327
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Nicktoons HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/328
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Boomerang HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/329
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", NPO Zappelin Xtra/Humor
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/330
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Baby TV 
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/331
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Pebble TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/332
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Bing
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/67245
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Peppa Big
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/50245
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Paw Patrol
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/83350
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Tom And Jerry 1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/55939
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", LionBox Tom And Jerry 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/55940
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", XITE 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/313
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", MTV Live HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/314
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", MTV Brand New
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/315
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", MTV Music 24
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/316
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", TV Oranje HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/317
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Slam! TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/318
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", 192TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/319
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", MEZZO
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/320
+#EXTINF:-1,tvg-id="NETHERLANDS"  tvg-logo="" group-title="NETHERLANDS", Nick Music
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/321
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15099
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP Info 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15100
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15101
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15102
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP 3 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15104
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TV 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15106
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TV 6 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15110
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVN 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15113
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVN 7 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15117
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVN 24 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15119
+#EXTINF:-1,PL| TVN 24 Bis
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15122
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", SciFi Universal
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15126
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", BBC First 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15136
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Rodzina HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15138
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP Polonia
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15142
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP Seriale
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15145
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP Rozrywka
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15154
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", E! Entertainment
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15155
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Food Network HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15156
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15157
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15158
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TLC HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15159
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Fox 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15160
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVS
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15161
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", DTX
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15165
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", NOWA HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15169
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", ROMANCE TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15173
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Stopklatka TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15175
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Lifetime HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15178
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Domo+ HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15181
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Da Vinci
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15185
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", ATM Rozrywka TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15189
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Active Family
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15192
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", 13 Ulica HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15196
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Zoom TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15205
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", wPolsce.pl
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15209
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", STARS.TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15210
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Red Carpet TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15211
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polo TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15212
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Planete+ HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15213
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Comedy Central 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15215
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Fox Comedy 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15216
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Cafe 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15217
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Play 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15218
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Viasat Nature HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15221
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Viasat Explore HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15223
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Super Polsat 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15233
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TV Puls 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15234
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Puls 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15241
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVN Fabula 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15249
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVN Style 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15253
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TTV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15255
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", CBS Reality 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15258
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", CBS Europa HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15261
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat News 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15264
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat News 2
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15271
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Doku HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15273
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Metro HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15281
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", BBC Earth 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15287
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Travel Channel HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15293
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TV Republika
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15296
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eska TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15298
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eska TV Extra
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15304
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", FOKUS TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15305
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", teleTOON HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15311
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Cartoon Network 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15314
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Disney XD
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15319
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Topkids 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15321
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Kuchnia+ 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15322
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", MiniMini+ 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15323
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Baby TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15324
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Nickelodeon
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15325
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Nick JR
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15326
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Nicktoons
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15327
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Boomerang
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15328
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Disney Channel
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15329
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Disney Junior
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15330
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat JimJam
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15332
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP ABC
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15333
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Power TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15334
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", MTV Polska HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15337
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", VH1
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15338
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eska Rock TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15339
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", SCI FI HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15340
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Music HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15342
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Music VOX
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15347
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Kino Polska Muzyka
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15350
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Disco Polo Music
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15354
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", 4Fun TV
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15358
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", 4Fun Gold Hits
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15362
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", 4Fun Dance
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15365
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Sundance TV HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15367
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TNT HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15370
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Discovery 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15371
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Discovery Turbo Xtra 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15372
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Discovery Historia
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15373
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Discovery Life 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15374
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", History 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15375
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Discovery Science 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15377
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", National Geographic 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15380
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Viasat History 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15382
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Adventure 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15384
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", ID TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15387
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", HGTV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15390
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVN Turbo 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15392
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP Kultura
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15394
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP Historia
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15397
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Investigation Discovery HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15400
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Animal Planet 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15403
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Nat Geo Wild 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15405
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", nSport+ 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15408
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Canal+ Sport 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15411
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Canal+ Sport 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15414
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", CANAL SPORT 3 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15416
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Canal+ Sport 4 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15421
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", SPORTKLUB HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15424
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Sport News HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15426
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Golf Channel HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15429
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Fightbox HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15432
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Extreme Sports HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15434
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Sport Premium 1 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15436
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Sport Premium 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15438
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Sport Premium PPV 4 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15439
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eurosport 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15443
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", EuroSport 2 HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15444
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Sport Extra 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15450
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Sport Fight 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15453
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Sport 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15456
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TVP Sport 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15461
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eleven Sports 1 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15462
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eleven Sports 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15463
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eleven Sports 3 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15464
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Eleven Sports 4 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15465
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Fight Klub 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15466
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", AMC
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15467
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Polsat Film 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15468
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", HBO 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15469
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", HBO 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15470
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", HBO 3 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15471
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Cinemax 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15472
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Cinemax 2 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15473
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Filmbox Family
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15474
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Filmbox Premium 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15475
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Filmbox Arthouse
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15476
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Filmbox Action
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15477
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Filmbox Extra 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15478
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Canal+ 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15479
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Canal+ Family 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15481
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Canal+ Film 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15482
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Canal+ Seriale 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15483
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Epic Drama HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15484
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", AXN 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15486
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", AXN Spin HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15487
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", AXN White
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15488
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", AXN Black
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15489
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Paramount Channel HD+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15491
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Ale Kino 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15493
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Kino TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15495
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Kino Polska
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15498
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", TO TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15163
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", Nuta TV 4K+
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15245
+#EXTINF:-1,tvg-id="POLAND"  tvg-logo="" group-title="POLAND", CBS Action
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15256
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] LA 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36521
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] LA 2 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36522
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ANTENA 3 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36523
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CUATRO HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36524
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] TELECINCO HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36525
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] LA SEXTA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36526
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] FDF
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36527
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ENERGY
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36528
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] DIVINITY
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36529
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] MEGA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36530
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] NEOX
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36531
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] NOVA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36532
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] 24 HORAS
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36533
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CANAL 24 HORAS
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36534
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CANAL SUR Andalucia
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36535
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] TVE INTERNACIONAL
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36536
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CLAN TVE
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36537
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] IBERALIA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36538
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] BABY TV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36539
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] BOING
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36540
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CANAL PANDA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36541
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] DISNEY JR
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36542
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] DISNEY XD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36543
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] NICKELODEON  HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36544
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] AMC HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36545
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] AXN
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36546
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] AXN HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36547
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] AXN WHITE HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36548
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CALLE 13 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36549
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] COSMO HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36550
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] FOX HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36551
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] FOX LIFE HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36552
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] HOLLYWOOD HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36553
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] COMEDY CENTRAL HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36554
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. ACCION HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36555
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. CINE ESP
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36556
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M.CineDoc&Roll
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36557
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. COMEDIA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36558
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. DISNEY
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36559
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. ESTRENOS HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36560
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] SYFY HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36561
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] TCM HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36562
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] TNT HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36563
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] EUROSPORT 1
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36564
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] EUROSPORT 2
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36565
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] GOL
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36566
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] LA LIGA TV BAR HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36568
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. FORMULA 1
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36569
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. GOLF HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36570
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M.LCAMPEONES HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36571
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] R. MADRID TV
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36572
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] TOROS HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36573
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. DEPORTE 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36574
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] TELE DEPORTE
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36575
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] BLAZE
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36576
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CANAL COCINA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36577
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CANAL DECASA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36578
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CAZA Y PESCA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36579
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CRIMEN Y INVES
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36580
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] FOX NEWS
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36581
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ARAGON
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36583
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] BE MAD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36584
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CANAL ODISEA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36585
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] CLASSICA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36586
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M.DRAMA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36587
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M. SERIES HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36588
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M.SERIESMANIA HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36589
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] M.CINEDOC&ROLL HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36590
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] MEZZO LIVE HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36591
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] MTV ESP
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36592
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] DISCOVERY
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36593
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] HISTORIA
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36594
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] NAT GEO HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36595
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] NAT GEO WILD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36596
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] PARAMOUNT
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36597
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] VH1
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36598
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] VIAJAR HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36599
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 1
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36600
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 2
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36601
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 3
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36602
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 4
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36603
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 6
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36605
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 7
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36606
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 8
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36607
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] ALQUILER 9
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36608
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] MOVISTAR MOTOGP | UHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36610
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",[ES] Murcia
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36611
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Accion HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39603
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Comedia FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39610
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Deportes 1 HD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39612
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR DEPORTS 
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39615
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Drama FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39618
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR FORMULA 1 FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39621
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Golf FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39624
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR LaLiga FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39627
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Series FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39637
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Series MANIA 
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39638
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Seriesmania FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39640
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: MOVISTAR Series
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39641
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: Liga de Campeones FHD
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39647
+#EXTINF:-1,tvg-id="SPAN" tvg-logo="" group-title="SPAIN",ES: LIGA TV BAR
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39649
