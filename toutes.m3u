@@ -1,13 +1,79 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR",PREMIUM 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN AMC HD" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/07/bein-cinema-Package-page.png" group-title="beIN Entertainment ",BeIN AMC HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraim HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Baraem_new_logo.png/1200px-Baraem_new_logo.png" group-title="beIN Entertainment ",Bein Baraim HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Bejunior HD" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/beJUNIOR.png" group-title="beIN Entertainment ",Bein Bejunior HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Boomerang HD" tvg-logo="https://www.nadirsat.com/Packages_files/Boomerang-HD-1.png" group-title="beIN Entertainment ",Bein Boomerang HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2016/07/Cartoon-Network-HD.jpg" group-title="beIN Entertainment ",Bein Cartoon Network HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/1200px-Discovery_Family_logo.svg.png" group-title="beIN Entertainment ",Bein Discovery Family
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Drama 1 HD" tvg-logo="https://www.cne-eg.com/uploads/logos/2021123714253.png" group-title="beIN Entertainment ",BeIN Drama 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/177.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fatafeat HD" tvg-logo="https://pbs.twimg.com/media/CcjJphsW4AAKnWW.png" group-title="beIN Entertainment ",BeIN Fatafeat HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/179.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fine Living HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="beIN Entertainment ",BeIN Fine Living HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/180.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Food Network HD" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/food-network-logo-2018-1.png" group-title="beIN Entertainment ",BeIN Food Network HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="beIN Entertainment ",BeIN Fox Action Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/182.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Crime HD" tvg-logo="https://w7.pngwing.com/pngs/927/907/png-transparent-fox-life-high-definition-television-fox-crime-crime-television-blue-animals.png" group-title="beIN Entertainment ",BeIN Fox Crime HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/183.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Family Movies HD" tvg-logo="https://media.elcinema.com/tvguide/1331_1.png" group-title="beIN Entertainment ",BeIN Fox Family Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/184.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group-title="beIN Entertainment ",BeIN Fox HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/185.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Life HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/FOX-LIFE-HD.png" group-title="beIN Entertainment ",BeIN Fox Life HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/186.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Fox Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_MOVIES_Action-2_HD.png" group-title="beIN Entertainment ",BeIN Fox Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN FX" tvg-logo="https://www.nadirsat.com/Packages_files/FX-HD-Black-1.png" group-title="beIN Entertainment ",beIN FX
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gourmet.png" group-title="beIN Entertainment ",BeIN Gourmet HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN HG HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein-Logo.png" group-title="beIN Entertainment ",beIN HG HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein HG TV" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png" group-title="beIN Entertainment ",Bein HG TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Jeem HD" tvg-logo="https://pbs.twimg.com/media/CdMR7zmVIAENMm0.png" group-title="beIN Entertainment ",Bein Jeem HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/193.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 2 Action HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies 2 Action HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 3 Drama HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies 3 Drama HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 4 Family HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies 4 Family HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies Premiere 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Movies Premiere 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN National Geographic FHD" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Nat_geo_hd.png" group-title="beIN Entertainment ",BeIN National Geographic FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN National Geographic Wild FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/UPDATEz-NGW_Full_Logo_20182.png" group-title="beIN Entertainment ",BeIN National Geographic Wild FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN OutDoor HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="beIN Entertainment ",BeIN OutDoor HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Series HD 1" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/4/2017/02/SeriesHD1@2x.png" group-title="beIN Entertainment ",BeIN Series HD 1
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/201.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Series HD 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="beIN Entertainment ",BeIN Series HD 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Star Movies HD" tvg-logo="https://ewsat.com/img/BEIN_MOVIES_STARS.png" group-title="beIN Entertainment ",BeIN Star Movies HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Star World HD" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/StarWorldHD.png" group-title="beIN Entertainment ",BeIN Star World HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Travel HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/0003_TCI_colour-Blue_UK2016.png" group-title="beIN Entertainment ",BeIN Travel HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/205.ts
+#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR", PREMIUM 1 HD
 http://jokeriptv.cf:8080/fifa2022/3ZvjYbKF8Yum/4064
-#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR",PREMIUM 2 HD
+#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR", PREMIUM 2 HD
 http://jokeriptv.cf:8080/fifa2022/3ZvjYbKF8Yum/4065
-#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR",PREMIUM 3 HD
+#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR", PREMIUM 3 HD
 http://jokeriptv.cf:8080/fifa2022/3ZvjYbKF8Yum/4066
-#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR",beINSPORTS 1 HD
+#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR", beINSPORTS 1 HD
 http://jokeriptv.cf:8080/fifa2022/3ZvjYbKF8Yum/4067
-#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR",beINSPORTS 2 HD
+#EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR", beINSPORTS 2 HD
 http://jokeriptv.cf:8080/fifa2022/3ZvjYbKF8Yum/4068
 #EXTINF:-1,tvg-id="BEIN SPORT AR"  tvg-logo="" group-title="BEIN SPORT AR", beINSPORTS 3  HD
 http://jokeriptv.cf:8080/fifa2022/3ZvjYbKF8Yum/4069
